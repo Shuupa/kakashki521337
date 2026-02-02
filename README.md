@@ -1,5 +1,5 @@
 # kakashki521337
-
+```c
 #define _CRT_SECURE_NO_WARNINGS
 #define TXTLEN_MAX 100 // максимальная длинна строки
 #define WRDSDIF_MAX 50 // максимальное кол-во разных слов (костыль)
@@ -192,3 +192,4 @@ int main()
 		} while (repeat != 1 && repeat != 0);
 	} while (repeat == 1);
 }
+```
